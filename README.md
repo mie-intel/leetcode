@@ -33,5 +33,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/mie-intel/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mie-intel/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/mie-intel/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+## Greedy
+|  |
+| ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/mie-intel/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+## Sorting
+|  |
+| ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/mie-intel/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 <!---LeetCode Topics End-->
