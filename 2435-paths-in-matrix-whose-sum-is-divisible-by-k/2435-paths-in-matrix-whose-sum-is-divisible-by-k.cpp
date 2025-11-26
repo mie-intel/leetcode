@@ -4,13 +4,11 @@ const ll mod = 1e9 + 7;
 class Solution {
 public:
     int numberOfPaths(vector<vector<int>>& grid, int k) {
-        vector <vector <vector <ll>>> g;
-        
         int n = grid.size();
         int m = grid[0].size();
-        for(int i = 0; i < n; ++i){
-            g.push_back(vector <vector <ll>> (m, vector <ll> (k, 0)));
-        }
+
+        vector <vector <vector <ll>>> g = vector <vector <vector <ll>>>(n, vector <vector <ll>> (m, vector <ll> (k, 0)));;        
+
         g[0][0][grid[0][0] % k] = 1;
         ll sum = grid[0][0] % k;
         for(int i = 1; i < n; ++i){
