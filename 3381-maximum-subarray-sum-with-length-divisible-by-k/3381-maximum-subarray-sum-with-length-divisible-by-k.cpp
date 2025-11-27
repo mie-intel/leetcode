@@ -11,8 +11,7 @@ public:
         ll mx = -1e15;
         vector <ll> dp = vector <ll> (n+1, -1e15);
         for(int i = k; i <= n; ++i){
-            dp[i] = max(dp[i], dp[i-k] + pref[i] - pref[i-k]);
-            dp[i] = max(dp[i], pref[i] - pref[i-k]);
+            dp[i] = max(pref[i] - pref[i-k], dp[i-k] + pref[i] - pref[i-k]);
             mx = max(mx, dp[i]);
         }
         return mx;
