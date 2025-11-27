@@ -15,10 +15,6 @@ public:
             dp[i] = max(dp[i], pref[i] - pref[i-k]);
             mx = max(mx, dp[i]);
         }
-        for(auto p : dp){
-            cout << p << " ";
-        }
-        cout << '\n';
         return mx;
     }
 };
