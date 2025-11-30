@@ -2,7 +2,7 @@ typedef long long ll;
 class Solution {
 public:
     int minSubarray(vector<int>& nums, int p) {
-        map <ll, ll> ls;
+        unordered_map <ll, ll> ls;
         ls[0] = -1;
         ll sm = 0;
         ll ans = INT_MAX;
