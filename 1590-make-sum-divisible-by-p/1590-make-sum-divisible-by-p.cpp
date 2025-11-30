@@ -17,7 +17,6 @@ public:
             if(ls.count(tar)){
                 ans = min(ans, i - ls[tar]);
             }
-            cout << sm << " " << tar << '\n';
         }
         return ans >= nums.size() ? -1 : ans;
     }
