@@ -22,7 +22,6 @@ public:
     }
 
     void add(ll l, ll val){
-        // cout << "L " << l << " " << val << '\n';
         while(l < maxn){
             fen[l] += val;
             fen[l] %= mod;
@@ -56,11 +55,7 @@ public:
         clear();
         add(1, 1);
         addx(n[1]);
-        // for(int i = 1; i <= 1; ++i)
-            // cout << qu(i) << '\n';
-// 
         int l = 1;
-        // cout << 1 <<  "\n";
         for(int i = 2; i < n.size(); ++i){
             addx(n[i]);
             while(l < i && query() > k){
@@ -70,7 +65,6 @@ public:
             ll val = ask(l-1, i-1);
             add(i, val);
         }
-        cout <<'\n';
         return ask(n.size()-1, n.size()-1);
     }
 };
