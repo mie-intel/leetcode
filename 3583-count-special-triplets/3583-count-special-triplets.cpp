@@ -19,14 +19,14 @@ public:
             if(kal == nums[i]){
                 ll up = mp[kal].size() - id - 1;
                 ll low = id;
-                ans += (up * low % mod);
+                ans += (up * low);
             }
             else{
                 ll up = mp[kal].size() - id;
                 ll low = id;
-                ans += (up * low % mod);
+                ans += (up * low);
             }
-            ans %= mod;
+            if(ans > mod) ans %= mod;
         }
         return ans;
     }
