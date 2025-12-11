@@ -7,7 +7,7 @@ public:
     int countCoveredBuildings(int n, vector<vector<int>>& buildings) {
         int cnt[maxn];
         memset(cnt, 0, sizeof cnt);
-        map <int, set <pair <int, int>>> x, y;
+        unordered_map <int, set <pair <int, int>>> x, y;
         for(int i = 0; i < buildings.size(); ++i){
             auto p = buildings[i];
             x[p[0]].emplace(p[1], i);
