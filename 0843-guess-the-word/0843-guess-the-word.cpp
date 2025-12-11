@@ -43,15 +43,18 @@ public:
         random_shuffle(rem.begin(), rem.end());
         set <string> called;
         for(int i = 0; i < 30; ++i){
+            bool ada = false;
             for(auto p : rem){
                 if(!called.count(p)){
                     int cnt = master.guess(rem[0]);
                     add(rem[0], cnt);
                     update();
                     called.insert(p);
+                    ada = true;
                     break;
                 }
             }
+            if(!ada) break;
         }   
     }
 };
