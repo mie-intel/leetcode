@@ -148,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mie-intel/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/mie-intel/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
