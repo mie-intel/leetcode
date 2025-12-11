@@ -8,29 +8,25 @@ public:
         int cnt[maxn];
         memset(cnt, 0, sizeof cnt);
 
-        set <pair <int, int>> x[maxn], y[maxn];
+        vector <pair <int, int>> x[maxn], y[maxn];
         for(int i = 0; i < buildings.size(); ++i){
             auto p = buildings[i];
-            x[p[0]].emplace(p[1], i);
-            y[p[1]].emplace(p[0], i);
+            x[p[0]].emplace_back(p[1], i);
+            y[p[1]].emplace_back(p[0], i);
         }
         for(int i = 0; i < maxn; ++i){
-            int cz = 0;
-            for(auto c : x[i]){
-                if(cz > 0 && cz < x[i].size()-1){
-                    cnt[c.se]++;    
-                }
-                cz++;
+            if(x[i].size() < 3) continue;
+            sort(x[i].begin(), x[i].end());
+            for(int j = 1; j < x[i].size()-1; ++j){
+                cnt[x[i][j].se]++;    
             }
         }
         int sz = 0;
         for(int i = 0; i < maxn; ++i){
-            int cz = 0;
-            for(auto c : y[i]){
-                if(cz > 0 && cz < y[i].size()-1){
-                    sz += cnt[c.se];
-                }
-                cz++;
+            if(y[i].size() < 3) continue;
+            sort(y[i].begin(), y[i].end());
+            for(int j = 1; j < y[i].size()-1; ++j){
+                sz += cnt[y[i][j].se];    
             }
         }
         return sz;
