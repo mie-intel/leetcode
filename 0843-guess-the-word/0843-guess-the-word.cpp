@@ -31,11 +31,6 @@ public:
             }
             if(c) tmp.push_back(p);
         }
-        // cout << "TMP: ";
-        // for(auto p : tmp){
-        //     cout << p << " ";
-        // }
-        // cout << '\n';
         rem = tmp;
     }
     void add(string s, int n){
@@ -47,9 +42,7 @@ public:
         sort(rem.begin(), rem.end());
         random_shuffle(rem.begin(), rem.end());
         set <string> called;
-        int mx = 30;
-        while(rem.size() && mx){
-            // cout << "CALL " << rem[0] << '\n';
+        for(int i = 0; i < 30; ++i){
             for(auto p : rem){
                 if(!called.count(p)){
                     int cnt = master.guess(rem[0]);
@@ -59,11 +52,6 @@ public:
                     break;
                 }
             }
-            mx--;
-            // for(auto p : rem){
-            //     cout << p << " ";
-            // }
-            // cout << '\n';
         }   
     }
 };
