@@ -10,6 +10,7 @@ class Solution:
             if b[0] == 'OFFLINE':
                 return 1
             return -1
+            
         def parseU(s):
             try:
                 return int(s)
