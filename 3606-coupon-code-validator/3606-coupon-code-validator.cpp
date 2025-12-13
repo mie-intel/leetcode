@@ -25,8 +25,8 @@ public:
             if(isActive[i] && cekCode(code[i]) && cekBus(businessLine[i])){
                 v.push_back({businessLine[i], code[i]});
             }
-            sort(v.begin(), v.end());
         }
+        sort(v.begin(), v.end());
         vector <string> res;
         for(auto p : v){
             res.push_back(p[1]);
