@@ -1,4 +1,5 @@
 typedef long long ll;
+const ll mod = 1e9 + 7;
 
 class Solution {
 public:
@@ -16,7 +17,6 @@ public:
             else{
                 cp++;
             }
-            const ll mod = 1e9 + 7;
             if(cs % 2 == 1 && p == 'S'){
                 if(l != -1){
                     ans *= (cp + 1);
