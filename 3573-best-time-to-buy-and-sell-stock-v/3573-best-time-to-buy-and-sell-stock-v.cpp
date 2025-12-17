@@ -21,10 +21,7 @@ public:
                 dp[i][c] = max(dp[i][c], dp[i-1][c]);
             }
         }
-
-        for(int j = 0; j <= k; ++j){
-            mx = max(dp[n-1][j], mx);
-        }
+        for(int j = 0; j <= k; ++j) mx = max(dp[n-1][j], mx);
         return mx;
     }
 };
