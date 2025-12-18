@@ -14,7 +14,6 @@ public:
         int l = k / 2;
         for(int i = 1; i + k - 1 <= prices.size(); ++i){
             ll add = 0;
-            // cout << i << " " << i + l - 1 << " " << i + k - 1 << " " << prices.size() << '\n';
             if(i > 1) add += kal[i-1];
             if(i + k - 1 < p.size()) add += kal.back() - kal[i+k-1];
             add += (p[i+k-1] - p[i+l-1]);
