@@ -34,9 +34,7 @@ public:
         for(int t = 1; t < maxn; ++t){
             if(meet[t].empty()) continue;
             queue <int> q;
-            // cout << "AT T=" << t << '\n' << " _";
             for(auto p : meet[t]){
-                // cout << p << " " << vis[p] << ": ";
                 if(vis[p] > 0){
                     vis[p] = 1;
                     q.push(p);
@@ -48,11 +46,9 @@ public:
                 q.pop();
                 if(vis[p] == 2) continue;
                 vis[p] = 2;
-                // auto id = v[p][pt[p]];
                 
                 while(pt[p] < v[p].size()){
                     auto id = v[p][pt[p]];
-                    // cout << " _" << p << " " << id.fi << " " << id.se << " " << vis[id.se] << endl;
                     if(id.fi < t) {
                         pt[p]++;
                         continue;
