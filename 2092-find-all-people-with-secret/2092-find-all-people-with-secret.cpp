@@ -30,9 +30,6 @@ public:
         for(int i = 0; i < n; ++i){
             sort(v[i].begin(), v[i].end());
         }
-        for(int i = 0; i < maxn; ++i){
-            meet2[i] = vector <int>(meet[i].begin(), meet[i].end());
-        }
         vis[f] = vis[0] = 1;
         for(int t = 1; t < maxn; ++t){
             if(meet[t].empty()) continue;
