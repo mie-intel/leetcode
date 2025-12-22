@@ -19,7 +19,9 @@ public:
                 if(cek(j, i)) dp[i] = max(dp[i], dp[j]+1);
             }
             mx = max(mx, dp[i]);
+            cout << dp[i] << " ";
         }
+        cout << '\n';
         return m - mx;
     }
 };
