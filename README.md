@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/mie-intel/leetcode/tree/master/0843-guess-the-word) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mie-intel/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mie-intel/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/mie-intel/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mie-intel/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mie-intel/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/mie-intel/leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/mie-intel/leetcode/tree/master/0843-guess-the-word) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mie-intel/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mie-intel/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/mie-intel/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mie-intel/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mie-intel/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mie-intel/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/mie-intel/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mie-intel/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mie-intel/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mie-intel/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
