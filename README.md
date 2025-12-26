@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/mie-intel/leetcode/tree/master/0146-lru-cache) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/mie-intel/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mie-intel/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mie-intel/leetcode/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/mie-intel/leetcode/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -210,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/mie-intel/leetcode/tree/master/2092-find-all-people-with-secret) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mie-intel/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mie-intel/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
