@@ -1,10 +1,18 @@
+#include <ext/pb_ds/assoc_container.hpp>
+using namespace __gnu_pbds;
+
+const int RANDOM = chrono::high_resolution_clock::now().time_since_epoch().count();
+struct chash {
+    int operator()(int x) const { return x ^ RANDOM; }
+};
+
 class LRUCache {
 public:
     int cap;
     int t;
     set <pair <int, int>> st;
-    unordered_map <int, int> last;
-    unordered_map <int, int> val;
+    unordered_map <int, int, chash> last;
+    unordered_map <int, int, chash> val;
     LRUCache(int capacity) {
         cap = capacity;
         t = 0;
