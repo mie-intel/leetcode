@@ -3,8 +3,8 @@ public:
     int cap;
     int t;
     set <pair <int, int>> st;
-    map <int, int> last;
-    map <int, int> val;
+    unordered_map <int, int> last;
+    unordered_map <int, int> val;
     LRUCache(int capacity) {
         cap = capacity;
         t = 0;
