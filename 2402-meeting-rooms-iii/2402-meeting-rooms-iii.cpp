@@ -53,14 +53,12 @@ public:
             pending.emplace(p[0], p[1]);
         }
         for(auto p : pending){
-            // cout << p.fi << " "  << p.se << '\n';
             while(room.size() && get_smallest().fi < p.fi) pop_room();
             add(p.fi, p.se);
         }
         int ans = 0;
         int mx = -1;
         for(int i = 1; i <= n; ++i){
-            // cout << cnt[i] << " ";
             if(cnt[i] > mx){
                 mx = cnt[i];
                 ans = i;
