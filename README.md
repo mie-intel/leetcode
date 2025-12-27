@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/mie-intel/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mie-intel/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2402-meeting-rooms-iii](https://github.com/mie-intel/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/mie-intel/leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/mie-intel/leetcode/tree/master/3583-count-special-triplets) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/mie-intel/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mie-intel/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mie-intel/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2402-meeting-rooms-iii](https://github.com/mie-intel/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mie-intel/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mie-intel/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2092-find-all-people-with-secret](https://github.com/mie-intel/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mie-intel/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2402-meeting-rooms-iii](https://github.com/mie-intel/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/mie-intel/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/mie-intel/leetcode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/mie-intel/leetcode/tree/master/3606-coupon-code-validator) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/mie-intel/leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2402-meeting-rooms-iii](https://github.com/mie-intel/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/mie-intel/leetcode/tree/master/3433-count-mentions-per-user) |
 ## Queue
 |  |
@@ -220,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mie-intel/leetcode/tree/master/0146-lru-cache) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/mie-intel/leetcode/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
