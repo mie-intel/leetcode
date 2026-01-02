@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mie-intel/leetcode/tree/master/0146-lru-cache) |
+| [0756-pyramid-transition-matrix](https://github.com/mie-intel/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/mie-intel/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mie-intel/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/mie-intel/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0843-guess-the-word](https://github.com/mie-intel/leetcode/tree/master/0843-guess-the-word) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mie-intel/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mie-intel/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/mie-intel/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mie-intel/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mie-intel/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/mie-intel/leetcode/tree/master/2402-meeting-rooms-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/mie-intel/leetcode/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
