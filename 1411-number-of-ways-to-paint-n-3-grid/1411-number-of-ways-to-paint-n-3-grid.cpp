@@ -23,11 +23,9 @@ public:
                         (dp[i][j] += dp[i-1][k]) %= mod;
                     }
                 }
-            }
-            if(i == n - 1){
-                for(int j = 0; j < 12; ++j)
-                    ans += dp[i][j];
-                    ans %= mod;
+                if(i == n - 1){
+                    (ans += dp[i][j]) %= mod;
+                }
             }
         }
         return ans;
