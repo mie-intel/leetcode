@@ -1,10 +1,10 @@
-const long long mod = 1e9 + 7;
+const int mod = 1e9 + 7;
 
 vector <string> con = {"ryg", "rgy", "yrg", "ygr", "gry", "gyr",
                         "rgr", "ryr", "ygy", "yry", "grg", "gyg"};
-vector <vector <long long>> st;
+vector <vector <int>> st;
 
-inline void md(long long &a){
+inline void md(int &a){
     a = (a >= mod ? a - mod : a);
 }
 
@@ -12,8 +12,8 @@ class Solution {
 public:
     
     int numOfWays(int n) {
-        long long ans = 0;
-        vector <vector <long long>> dp = vector <vector <long long>> (2, vector <long long>(12, 0));
+        int ans = 0;
+        vector <vector <int>> dp = vector <vector <int>> (2, vector <int>(12, 0));
         if(st.empty()){
             st.resize(12);
             for(int j = 0; j < 12; ++j){
