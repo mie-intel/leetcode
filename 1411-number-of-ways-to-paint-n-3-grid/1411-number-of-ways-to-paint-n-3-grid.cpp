@@ -1,8 +1,8 @@
 const int mod = 1e9 + 7;
 
-vector <string> con = {"ryg", "rgy", "yrg", "ygr", "gry", "gyr",
+string con[] = {"ryg", "rgy", "yrg", "ygr", "gry", "gyr",
                         "rgr", "ryr", "ygy", "yry", "grg", "gyg"};
-vector <vector <int>> st;
+vector <int> st[12];
 
 inline void md(int &a){
     a = (a >= mod ? a - mod : a);
@@ -15,8 +15,7 @@ public:
     
     int numOfWays(int n) {
         int ans = 0;
-        if(st.empty()){
-            st.resize(12);
+        if(st[0].empty()){
             for(int j = 0; j < 12; ++j){
                 for(int k = 0; k < 12; ++k){
                     bool valid = 1;
