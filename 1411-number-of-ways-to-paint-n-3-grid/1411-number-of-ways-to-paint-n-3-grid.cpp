@@ -14,6 +14,8 @@ class Solution {
 public:
     
     int numOfWays(int n) {
+        ios_base::sync_with_stdio(0);
+        cin.tie(0);
         int ans = 0;
         if(st[0].empty()){
             for(int j = 0; j < 12; ++j){
