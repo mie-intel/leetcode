@@ -8,12 +8,13 @@ inline void md(int &a){
     a = (a >= mod ? a - mod : a);
 }
 
+int dp[2][12];
+
 class Solution {
 public:
     
     int numOfWays(int n) {
         int ans = 0;
-        vector <vector <int>> dp = vector <vector <int>> (2, vector <int>(12, 0));
         if(st.empty()){
             st.resize(12);
             for(int j = 0; j < 12; ++j){
