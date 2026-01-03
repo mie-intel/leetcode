@@ -8,14 +8,6 @@ public:
     int numOfWays(int n) {
         long long ans = 0;
         vector <vector <long long>> dp = vector <vector <long long>> (n, vector <long long>(12, 0));
-        cout << con.size() << '\n';
-        for(int i = 0; i < 12; ++i){
-            cout << con[i].length() << " ";
-            for(int j = 0; j < 3; ++j)
-                cout << con[i][j] << " ";
-            cout << '\n';
-        }
-        cout << '\n';
         for(int i = 0; i < n; ++i){
             for(int j = 0; j < 12; ++j){
                 if(i == 0) {
