@@ -2,29 +2,44 @@ const long long mod = 1e9 + 7;
 
 vector <string> con = {"ryg", "rgy", "yrg", "ygr", "gry", "gyr",
                         "rgr", "ryr", "ygy", "yry", "grg", "gyg"};
+vector <vector <long long>> st;
+
+inline void md(long long &a){
+    a = (a >= mod ? a - mod : a);
+}
 
 class Solution {
 public:
+    
     int numOfWays(int n) {
         long long ans = 0;
-        vector <vector <long long>> dp = vector <vector <long long>> (n, vector <long long>(12, 0));
+        vector <vector <long long>> dp = vector <vector <long long>> (2, vector <long long>(12, 0));
+        if(st.empty()){
+            st.resize(12);
+            for(int j = 0; j < 12; ++j){
+                for(int k = 0; k < 12; ++k){
+                    bool valid = 1;
+                    for(int l = 0; l < 3 && valid; ++l){
+                        if(con[j][l] == con[k][l]) 
+                            valid = 0;
+                    }
+                    if(valid) st[j].push_back(k);
+                }
+            }
+        }
         for(int i = 0; i < n; ++i){
             for(int j = 0; j < 12; ++j){
                 if(i == 0) {
-                    dp[i][j] = 1;
+                    dp[i&1][j] = 1;
                 }
                 else{
-                    for(int k = 0; k < 12; ++k) {
-                        bool valid = 1;
-                        for(int l = 0; l < 3 && valid; ++l)
-                            if(con[j][l] == con[k][l]) 
-                                valid = 0;
-                        if(!valid) continue;
-                        (dp[i][j] += dp[i-1][k]) %= mod;
+                    dp[i&1][j] = 0;
+                    for(int k = 0; k < st[j].size(); ++k){
+                        md(dp[i&1][j] += dp[(i+1)&1][st[j][k]]);
                     }
                 }
                 if(i == n - 1){
-                    (ans += dp[i][j]) %= mod;
+                    md(ans += dp[i&1][j]);
                 }
             }
         }
