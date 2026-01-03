@@ -19,13 +19,18 @@ public:
         int ans = 0;
         if(st[0].empty()){
             for(int j = 0; j < 12; ++j){
-                for(int k = 0; k < 12; ++k){
+                for(int k = j+1; k < 12; ++k){
                     bool valid = 1;
-                    for(int l = 0; l < 3 && valid; ++l){
-                        if(con[j][l] == con[k][l]) 
+                    for(int l = 0; l < 3; ++l){
+                        if(con[j][l] == con[k][l]){
                             valid = 0;
+                            break;
+                        } 
                     }
-                    if(valid) st[j].push_back(k);
+                    if(valid){
+                        st[j].push_back(k);
+                        st[k].push_back(j);
+                    }
                 }
             }
         }
