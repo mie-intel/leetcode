@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mie-intel/leetcode/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/mie-intel/leetcode/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/mie-intel/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0843-guess-the-word](https://github.com/mie-intel/leetcode/tree/master/0843-guess-the-word) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mie-intel/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/mie-intel/leetcode/tree/master/0085-maximal-rectangle) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mie-intel/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mie-intel/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mie-intel/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/mie-intel/leetcode/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/mie-intel/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mie-intel/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mie-intel/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/mie-intel/leetcode/tree/master/0085-maximal-rectangle) |
 | [2211-count-collisions-on-a-road](https://github.com/mie-intel/leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
@@ -273,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mie-intel/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mie-intel/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/mie-intel/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
