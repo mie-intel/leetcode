@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mie-intel/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2402-meeting-rooms-iii](https://github.com/mie-intel/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mie-intel/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mie-intel/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/mie-intel/leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/mie-intel/leetcode/tree/master/3583-count-special-triplets) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mie-intel/leetcode/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/mie-intel/leetcode/tree/master/0146-lru-cache) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mie-intel/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mie-intel/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mie-intel/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/mie-intel/leetcode/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mie-intel/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mie-intel/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/mie-intel/leetcode/tree/master/3531-count-covered-buildings) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/mie-intel/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2402-meeting-rooms-iii](https://github.com/mie-intel/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/mie-intel/leetcode/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mie-intel/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mie-intel/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Queue
 |  |
@@ -274,11 +278,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mie-intel/leetcode/tree/master/0146-lru-cache) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mie-intel/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mie-intel/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/mie-intel/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mie-intel/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mie-intel/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Backtracking
 |  |
@@ -296,5 +302,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mie-intel/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mie-intel/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
