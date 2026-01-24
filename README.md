@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mie-intel/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mie-intel/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1590-make-sum-divisible-by-p](https://github.com/mie-intel/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/mie-intel/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mie-intel/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/mie-intel/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mie-intel/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mie-intel/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mie-intel/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/mie-intel/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/mie-intel/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mie-intel/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mie-intel/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mie-intel/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mie-intel/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/mie-intel/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2092-find-all-people-with-secret](https://github.com/mie-intel/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mie-intel/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2402-meeting-rooms-iii](https://github.com/mie-intel/leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mie-intel/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mie-intel/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/mie-intel/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
