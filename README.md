@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mie-intel/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/mie-intel/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1980-find-unique-binary-string](https://github.com/mie-intel/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mie-intel/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2402-meeting-rooms-iii](https://github.com/mie-intel/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mie-intel/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mie-intel/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mie-intel/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/mie-intel/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mie-intel/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mie-intel/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/mie-intel/leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mie-intel/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mie-intel/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/mie-intel/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/mie-intel/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mie-intel/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mie-intel/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mie-intel/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/mie-intel/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1980-find-unique-binary-string](https://github.com/mie-intel/leetcode/tree/master/1980-find-unique-binary-string) |
 ## Binary Tree
 |  |
 | ------- |
