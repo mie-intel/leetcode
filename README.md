@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mie-intel/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mie-intel/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/mie-intel/leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mie-intel/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mie-intel/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3606-coupon-code-validator](https://github.com/mie-intel/leetcode/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mie-intel/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mie-intel/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mie-intel/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mie-intel/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2402-meeting-rooms-iii](https://github.com/mie-intel/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mie-intel/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -322,10 +324,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mie-intel/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mie-intel/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mie-intel/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mie-intel/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mie-intel/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
