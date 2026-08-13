@@ -14,7 +14,7 @@ public:
     static const int maxn = 1e5 + 1;
     node seg[4 * maxn];
     
-    node merge(node a, node b){
+    inline node merge(node a, node b){
         node res;
         res.l = a.l; res.r = b.r;
         res.ln = a.ln + b.ln;
@@ -28,7 +28,7 @@ public:
         return res;
     }
 
-    void build(int l, int r, int v){
+    inline void build(int l, int r, int v){
         if(l == r){
             seg[v] = node(s[l]);
         }
@@ -40,10 +40,9 @@ public:
         }
     }
 
-    void update(int l, int r, int v, int pos, char c){
+    inline int update(int l, int r, int v, int pos, char c){
         if(l == r){
             seg[v] = node(c);
-            return;
         }
         else{
             int m = (l + r)/2;
@@ -51,10 +50,7 @@ public:
             else update(m + 1, r, 2 * v + 1, pos, c);
             seg[v] = merge(seg[2 * v], seg[2 * v + 1]);
         }
-    }
-
-    int get(){
-        return seg[1].mx;
+        return seg[v].mx;
     }
 
     vector<int> longestRepeating(string _s, string queryCharacters, vector<int>& queryIndices) {
@@ -63,8 +59,7 @@ public:
         build(0, N-1, 1);
         vector <int> ans;
         for(int i = 0; i < queryIndices.size(); ++i){
-            update(0, N-1, 1, queryIndices[i], queryCharacters[i]);
-            ans.push_back(get());
+            ans.push_back(update(0, N-1, 1, queryIndices[i], queryCharacters[i]));
         }
         return ans;
     }
