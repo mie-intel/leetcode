@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mie-intel/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mie-intel/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/mie-intel/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mie-intel/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mie-intel/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/mie-intel/leetcode/tree/master/3531-count-covered-buildings) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mie-intel/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/mie-intel/leetcode/tree/master/3433-count-mentions-per-user) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/mie-intel/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mie-intel/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mie-intel/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
