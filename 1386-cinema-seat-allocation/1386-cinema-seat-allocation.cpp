@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& r) {
-        set <int> st;
+        unordered_set <int> st;
         unordered_map <int, bool> ll;
         unordered_map <int, bool> mi;
         unordered_map <int, bool> rr;
