@@ -33,9 +33,6 @@ public:
         l -= r;
         r = 0;
         // cout << l << " " << r << " " << cl << " " << cr << '\n';
-        if(l < 0) return true;
-        if(9 * getA(cr) > l) return true;
-        if(9 * getB(cr) < l) return true;
-        return false;
+        return (l < 0) || (9 * getA(cr) > l) || (9 * getB(cr) < l); 
     }
 };
