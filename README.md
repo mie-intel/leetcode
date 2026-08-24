@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mie-intel/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/mie-intel/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1872-stone-game-viii](https://github.com/mie-intel/leetcode/tree/master/1872-stone-game-viii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mie-intel/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mie-intel/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/mie-intel/leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/mie-intel/leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mie-intel/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/mie-intel/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/mie-intel/leetcode/tree/master/1872-stone-game-viii) |
 | [1925-count-square-sum-triples](https://github.com/mie-intel/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/mie-intel/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mie-intel/leetcode/tree/master/2029-stone-game-ix) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mie-intel/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1563-stone-game-v](https://github.com/mie-intel/leetcode/tree/master/1563-stone-game-v) |
 | [1590-make-sum-divisible-by-p](https://github.com/mie-intel/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1872-stone-game-viii](https://github.com/mie-intel/leetcode/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mie-intel/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mie-intel/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/mie-intel/leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mie-intel/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mie-intel/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1563-stone-game-v](https://github.com/mie-intel/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/mie-intel/leetcode/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mie-intel/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mie-intel/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mie-intel/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0843-guess-the-word](https://github.com/mie-intel/leetcode/tree/master/0843-guess-the-word) |
 | [1563-stone-game-v](https://github.com/mie-intel/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/mie-intel/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mie-intel/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mie-intel/leetcode/tree/master/2029-stone-game-ix) |
 ## Breadth-First Search
@@ -370,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/mie-intel/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mie-intel/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -378,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/mie-intel/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mie-intel/leetcode/tree/master/2029-stone-game-ix) |
 ## Number Theory
 |  |
