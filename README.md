@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/mie-intel/leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/mie-intel/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/mie-intel/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/mie-intel/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/mie-intel/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mie-intel/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mie-intel/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/mie-intel/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
