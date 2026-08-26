@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/mie-intel/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mie-intel/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mie-intel/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mie-intel/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mie-intel/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3606-coupon-code-validator](https://github.com/mie-intel/leetcode/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mie-intel/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mie-intel/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mie-intel/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mie-intel/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mie-intel/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mie-intel/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
