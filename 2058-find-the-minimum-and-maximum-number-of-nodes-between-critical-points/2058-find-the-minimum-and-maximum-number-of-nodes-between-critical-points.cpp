@@ -15,14 +15,11 @@ public:
         vector <int> c;
         int prev = -1;
         while(head){
-            cout << head->val << ' ';
             if(prev == -1){
                 prev = head->val;
                 head = head->next;
-                cout << "1\n";
             }
             else if(!head->next){
-                cout << "2\n";
                 break;
             }
             else{
@@ -34,15 +31,9 @@ public:
                 }
                 prev = head->val;
                 head = head->next;
-                cout << "3\n";
             }
             t++;
         }
-        cout << "OUTPUT: ";
-        for(auto p : c){
-            cout << p << " ";
-        }
-        cout << '\n';
         if(c.size() < 2) return {-1, -1};
         int mx = c.back() - c[0];
         int mn = mx;
