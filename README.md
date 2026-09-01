@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mie-intel/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mie-intel/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/mie-intel/leetcode/tree/master/3531-count-covered-buildings) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mie-intel/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/mie-intel/leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/mie-intel/leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/mie-intel/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mie-intel/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mie-intel/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/mie-intel/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mie-intel/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mie-intel/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/mie-intel/leetcode/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mie-intel/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mie-intel/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/mie-intel/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mie-intel/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mie-intel/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/mie-intel/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/mie-intel/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mie-intel/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mie-intel/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
 | ------- |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mie-intel/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mie-intel/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/mie-intel/leetcode/tree/master/2092-find-all-people-with-secret) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mie-intel/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union Find
 |  |
 | ------- |
