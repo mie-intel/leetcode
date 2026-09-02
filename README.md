@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mie-intel/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3623-count-number-of-trapezoids-i](https://github.com/mie-intel/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/mie-intel/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mie-intel/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mie-intel/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mie-intel/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mie-intel/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mie-intel/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
