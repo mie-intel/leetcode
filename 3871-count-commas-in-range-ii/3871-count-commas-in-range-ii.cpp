@@ -14,7 +14,6 @@ public:
             else if(n >= A[i-1]){
                 sum += (n - A[i-1] + 1) * (i-1);
             }
-            cout << sum << '\n';
         }
         return sum;
     }
